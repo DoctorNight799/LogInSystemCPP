@@ -1,7 +1,7 @@
 ﻿#include <iostream>
 #include <fstream>
 #include <string>
-#include<direct.h>
+#include <direct.h>
 
 using namespace std;
 
